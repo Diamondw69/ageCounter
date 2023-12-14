@@ -1,0 +1,18 @@
+.cake-container {
+    position: relative;
+    display: inline-block;
+}
+
+.candle {
+    position: absolute;
+    width: 40px;  /* Adjust size as needed */
+    height: 80px; /* Adjust size as needed */
+}
+
+.age-display {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    /* Add more styles for the age display */
+}
